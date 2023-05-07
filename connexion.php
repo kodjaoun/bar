@@ -27,6 +27,6 @@
         </div>
         <div class="lien_inscription"><a href="">Inscription</a></div>
      </div>
-     <script src="../js/connexion.js"></script>
+     <script src="connexion.js"></script>
 </body>
 </html>
